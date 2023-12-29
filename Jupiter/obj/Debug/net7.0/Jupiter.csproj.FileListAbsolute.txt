@@ -1,0 +1,14 @@
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/Jupiter/bin/Debug/net7.0/Jupiter
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/Jupiter/bin/Debug/net7.0/Jupiter.deps.json
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/Jupiter/bin/Debug/net7.0/Jupiter.runtimeconfig.json
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/Jupiter/bin/Debug/net7.0/Jupiter.dll
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/Jupiter/bin/Debug/net7.0/Jupiter.pdb
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/Jupiter/obj/Debug/net7.0/Jupiter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/Jupiter/obj/Debug/net7.0/Jupiter.AssemblyInfoInputs.cache
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/Jupiter/obj/Debug/net7.0/Jupiter.AssemblyInfo.cs
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/Jupiter/obj/Debug/net7.0/Jupiter.csproj.CoreCompileInputs.cache
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/Jupiter/obj/Debug/net7.0/Jupiter.dll
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/Jupiter/obj/Debug/net7.0/refint/Jupiter.dll
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/Jupiter/obj/Debug/net7.0/Jupiter.pdb
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/Jupiter/obj/Debug/net7.0/Jupiter.genruntimeconfig.cache
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/Jupiter/obj/Debug/net7.0/ref/Jupiter.dll
