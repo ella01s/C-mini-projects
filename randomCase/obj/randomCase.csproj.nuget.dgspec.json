@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/randomCase/randomCase.csproj": {}
+  },
+  "projects": {
+    "/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/randomCase/randomCase.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/randomCase/randomCase.csproj",
+        "projectName": "randomCase",
+        "projectPath": "/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/randomCase/randomCase.csproj",
+        "packagesPath": "/Users/emmanuellasolomon/.nuget/packages/",
+        "outputPath": "/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/randomCase/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/emmanuellasolomon/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

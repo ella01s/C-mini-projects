@@ -1,0 +1,14 @@
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/randomCase/bin/Debug/net7.0/randomCase
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/randomCase/bin/Debug/net7.0/randomCase.deps.json
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/randomCase/bin/Debug/net7.0/randomCase.runtimeconfig.json
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/randomCase/bin/Debug/net7.0/randomCase.dll
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/randomCase/bin/Debug/net7.0/randomCase.pdb
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/randomCase/obj/Debug/net7.0/randomCase.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/randomCase/obj/Debug/net7.0/randomCase.AssemblyInfoInputs.cache
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/randomCase/obj/Debug/net7.0/randomCase.AssemblyInfo.cs
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/randomCase/obj/Debug/net7.0/randomCase.csproj.CoreCompileInputs.cache
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/randomCase/obj/Debug/net7.0/randomCase.dll
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/randomCase/obj/Debug/net7.0/refint/randomCase.dll
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/randomCase/obj/Debug/net7.0/randomCase.pdb
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/randomCase/obj/Debug/net7.0/randomCase.genruntimeconfig.cache
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/randomCase/obj/Debug/net7.0/ref/randomCase.dll
