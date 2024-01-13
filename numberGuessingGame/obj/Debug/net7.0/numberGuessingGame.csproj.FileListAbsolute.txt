@@ -1,0 +1,14 @@
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/numberGuessingGame/obj/Debug/net7.0/numberGuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/numberGuessingGame/obj/Debug/net7.0/numberGuessingGame.AssemblyInfoInputs.cache
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/numberGuessingGame/obj/Debug/net7.0/numberGuessingGame.AssemblyInfo.cs
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/numberGuessingGame/obj/Debug/net7.0/numberGuessingGame.csproj.CoreCompileInputs.cache
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/numberGuessingGame/bin/Debug/net7.0/numberGuessingGame
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/numberGuessingGame/bin/Debug/net7.0/numberGuessingGame.deps.json
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/numberGuessingGame/bin/Debug/net7.0/numberGuessingGame.runtimeconfig.json
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/numberGuessingGame/bin/Debug/net7.0/numberGuessingGame.dll
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/numberGuessingGame/bin/Debug/net7.0/numberGuessingGame.pdb
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/numberGuessingGame/obj/Debug/net7.0/numberGuessingGame.dll
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/numberGuessingGame/obj/Debug/net7.0/refint/numberGuessingGame.dll
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/numberGuessingGame/obj/Debug/net7.0/numberGuessingGame.pdb
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/numberGuessingGame/obj/Debug/net7.0/numberGuessingGame.genruntimeconfig.cache
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/numberGuessingGame/obj/Debug/net7.0/ref/numberGuessingGame.dll
