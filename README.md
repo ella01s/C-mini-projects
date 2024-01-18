@@ -6,6 +6,7 @@ This project takes the users age and calculates the following;
 - users age on Jupiter
 - users age after travelling to Jupiter, in Jupiter years and Earth years
 
+ageConvertionHumanToAnimal:
 This project takes the users age and asks if they want to convert their age into dog or cat years. the program does the conversion based on the users response
 
 poemGenerator:
