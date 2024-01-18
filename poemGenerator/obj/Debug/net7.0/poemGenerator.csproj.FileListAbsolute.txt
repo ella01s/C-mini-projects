@@ -1,0 +1,14 @@
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/poemGenerator/obj/Debug/net7.0/poemGenerator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/poemGenerator/obj/Debug/net7.0/poemGenerator.AssemblyInfoInputs.cache
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/poemGenerator/obj/Debug/net7.0/poemGenerator.AssemblyInfo.cs
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/poemGenerator/obj/Debug/net7.0/poemGenerator.csproj.CoreCompileInputs.cache
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/poemGenerator/bin/Debug/net7.0/poemGenerator
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/poemGenerator/bin/Debug/net7.0/poemGenerator.deps.json
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/poemGenerator/bin/Debug/net7.0/poemGenerator.runtimeconfig.json
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/poemGenerator/bin/Debug/net7.0/poemGenerator.dll
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/poemGenerator/bin/Debug/net7.0/poemGenerator.pdb
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/poemGenerator/obj/Debug/net7.0/poemGenerator.dll
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/poemGenerator/obj/Debug/net7.0/refint/poemGenerator.dll
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/poemGenerator/obj/Debug/net7.0/poemGenerator.pdb
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/poemGenerator/obj/Debug/net7.0/poemGenerator.genruntimeconfig.cache
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/poemGenerator/obj/Debug/net7.0/ref/poemGenerator.dll
