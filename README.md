@@ -1,5 +1,5 @@
-# C-mini-projects
-Mini projects in C#
+# C#-mini-projects
+
 
 Jupiter:
 This project takes the users age and calculates the following;
