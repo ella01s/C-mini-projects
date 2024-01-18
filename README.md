@@ -17,4 +17,4 @@ The program picks a number and the user has to try and guess it.
 poemGenerator:
 The program takes a block of text from the user and converts it to an array. It then asks the user to pick a letter and generates a poem using that letter by iterating over the provided block of text to find all the words that begin with the users chosen letter.
 
-*randomCase: Takes a sentence from the user and then randomises the case use.
+randomCase: Takes a sentence from the user and then randomises the case use.
