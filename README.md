@@ -1,5 +1,8 @@
 # C# mini projects
 
+ConvertToCoins:
+This program takes a monetary amount from the user and converts it to the fewest possible coins.
+
 Jupiter:
 This project takes the users age and calculates the following;
 - users age on Jupiter
