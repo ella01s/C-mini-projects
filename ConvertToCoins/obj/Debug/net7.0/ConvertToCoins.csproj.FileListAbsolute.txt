@@ -1,0 +1,14 @@
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/ConvertToCoins/bin/Debug/net7.0/ConvertToCoins
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/ConvertToCoins/bin/Debug/net7.0/ConvertToCoins.deps.json
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/ConvertToCoins/bin/Debug/net7.0/ConvertToCoins.runtimeconfig.json
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/ConvertToCoins/bin/Debug/net7.0/ConvertToCoins.dll
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/ConvertToCoins/bin/Debug/net7.0/ConvertToCoins.pdb
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/ConvertToCoins/obj/Debug/net7.0/ConvertToCoins.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/ConvertToCoins/obj/Debug/net7.0/ConvertToCoins.AssemblyInfoInputs.cache
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/ConvertToCoins/obj/Debug/net7.0/ConvertToCoins.AssemblyInfo.cs
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/ConvertToCoins/obj/Debug/net7.0/ConvertToCoins.csproj.CoreCompileInputs.cache
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/ConvertToCoins/obj/Debug/net7.0/ConvertToCoins.dll
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/ConvertToCoins/obj/Debug/net7.0/refint/ConvertToCoins.dll
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/ConvertToCoins/obj/Debug/net7.0/ConvertToCoins.pdb
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/ConvertToCoins/obj/Debug/net7.0/ConvertToCoins.genruntimeconfig.cache
+/Users/emmanuellasolomon/Documents/Comp_Sci/C#/Learn_C#_small_projects/ConvertToCoins/obj/Debug/net7.0/ref/ConvertToCoins.dll
